@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://drive.google.com/file/d/1HXEGS4ghwdvEP9VBCKsp5_BsBsWp3bgD/view?usp=sharing" alt="Hey I am a CSE student at NIAT header" width="100%" />
-</div>
-
+![Header](./your-header-image-name.png)
 
 # Hi 👋, I'm Hanish
 
