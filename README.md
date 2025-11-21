@@ -51,7 +51,7 @@
 
 ---
 
-### 📊 GitHub Stats (Glass/Dark Theme)
+### 📊 GitHub Stats 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanish-tompala&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="hanish's stats" />
